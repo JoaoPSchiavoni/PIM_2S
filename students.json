@@ -1,0 +1,63 @@
+{
+    "402f300e": {
+        "name": "Joao",
+        "RA": "00001",
+        "grades": {
+            "Matemática": [
+                5.0,
+                5.0,
+                9.0,
+                9.0
+            ],
+            "Biologia": [
+                9.0,
+                9.0,
+                9.0,
+                9.0
+            ],
+            "Física": [],
+            "Português": [],
+            "Inglês": [],
+            "Filosofia": [],
+            "Sociologia": [],
+            "Química": [],
+            "Geografia": [],
+            "Educação Física": [],
+            "História": []
+        }
+    },
+    "31704a8c": {
+        "name": "DUDU",
+        "RA": "00002",
+        "grades": {
+            "Matemática": [],
+            "Biologia": [],
+            "Física": [],
+            "Português": [],
+            "Inglês": [],
+            "Filosofia": [],
+            "Sociologia": [],
+            "Química": [],
+            "Geografia": [],
+            "Educação Física": [],
+            "História": []
+        }
+    },
+    "80a0c340": {
+        "name": "Claudia",
+        "RA": "00003",
+        "grades": {
+            "Matemática": [],
+            "Biologia": [],
+            "Física": [],
+            "Português": [],
+            "Inglês": [],
+            "Filosofia": [],
+            "Sociologia": [],
+            "Química": [],
+            "Geografia": [],
+            "Educação Física": [],
+            "História": []
+        }
+    }
+}

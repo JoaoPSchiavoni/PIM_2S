@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mugen/Desktop/PIM/PIM_2S/teste'
+relocations:     []
+...
