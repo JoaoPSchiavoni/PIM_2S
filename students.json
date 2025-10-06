@@ -1,20 +1,15 @@
 {
-    "402f300e": {
-        "name": "Joao",
+    "5666546b": {
+        "name": "Joao Pedro Schiavoni",
         "RA": "00001",
         "grades": {
             "Matemática": [
-                5.0,
-                5.0,
+                8.0,
                 9.0,
-                9.0
+                7.5,
+                5.0
             ],
-            "Biologia": [
-                9.0,
-                9.0,
-                9.0,
-                9.0
-            ],
+            "Biologia": [],
             "Física": [],
             "Português": [],
             "Inglês": [],
@@ -26,8 +21,8 @@
             "História": []
         }
     },
-    "31704a8c": {
-        "name": "DUDU",
+    "af6ff991": {
+        "name": "Luis Eduardo",
         "RA": "00002",
         "grades": {
             "Matemática": [],
@@ -43,8 +38,8 @@
             "História": []
         }
     },
-    "80a0c340": {
-        "name": "Claudia",
+    "4e6e79c1": {
+        "name": "Luis Eduardo",
         "RA": "00003",
         "grades": {
             "Matemática": [],
